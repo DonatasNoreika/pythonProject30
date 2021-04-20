@@ -1,3 +1,5 @@
+import sqlalchemy
+
 print("Čia nauja Donato programa")
 
 for x in range(10):
